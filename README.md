@@ -23,6 +23,22 @@
 - [Podcasts](#podcasts)
 
 ## Community
+* [Product Manager Africa](https://pmafrica.co/)
+* [Product Coalition](https://productcoalitionslack.herokuapp.com/)
+* [Product Management](https://www.linkedin.com/groups/42629/)
+* [Accidental Product Manager](https://www.linkedin.com/groups/3995219/)
+* [Mind the Product](http://slack.mindtheproduct.com/?ref=hackernoon.com)
+* [Product School](https://productschool.com/slack-community/)
+* [Creative Product Managers](https://www.linkedin.com/groups/123115)
+* [Better Product Community](https://betterproduct.community/)
+* [Agile Coaching](http://p4a.herokuapp.com/)
+* [Lewis Lin PM Interview Community](http://pmint.herokuapp.com/)
+* [Lean Stack Community](http://slack.leanstack.com/)
+* [Women in Product](https://www.womenpm.org/join)
+* [Product Manager Jobs](https://www.linkedin.com/groups/2142079)
+* [Product Manager Africa](https://pmafrica.co/)
+
+
 
 
 ## Courses
