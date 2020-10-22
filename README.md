@@ -51,7 +51,32 @@
 
 
 ## Product tools
-
+* [Amplitude: Product Intelligence](https://amplitude.com/)
+* [Productplan: Roadmapping Software](https://www.productplan.com/)
+* [Pendo: Product Intelligence](https://www.pendo.io/)
+* [Survey Monkey: Customer Survey](https://www.surveymonkey.com/)
+* [Typeform: Customer Survey](https://www.typeform.com/surveys/)
+* [Jira: Project Management](https://www.atlassian.com/software/jira)
+* [Asana: Project Management](https://asana.com/)
+* [Trello: Project Management](https://trello.com/)
+* [Pivotal Tracker: Project Management](https://www.pivotaltracker.com/)
+* [Optimizely](https://www.optimizely.com/)
+* [Split.io: Feature Flags](https://www.split.io/)
+* [Launch Darkly: Feature Flags](https://launchdarkly.com/)
+* [Fullstory: Heatmap Toos](https://www.fullstory.com/)
+* [Hotjar: Heatmap Toos](https://www.hotjar.com/)
+* [Visio: Flowchart](https://products.office.com/en-us/visio/flowchart-software)
+* [Lucid Chart: Flowchart](https://www.lucidchart.com)
+* [Mural: White Boarding](https://www.mural.co)
+* [Google Analytics](https://marketingplatform.google.com/about/analytics/)
+* [Aha: Wireframe](https://www.aha.io)
+* [Mixpanel: Analytics](https://mixpanel.com/)
+* [Figma: Wireframe](https://www.figma.com/files/recent)
+* [Balsamiq: Wireframe](https://balsamiq.com/)
+* [Framer: Wireframe](https://www.framer.com/)
+* [Balsamiq: Wireframe](https://balsamiq.com/)
+* [Walkme: User onboarding](https://www.walkme.com/)
+* [Useriq: User onboarding](https://useriq.com/)
 
 
 ## Conferences
@@ -71,6 +96,9 @@
 
 
 ## Product blogs to follow
+* [Productplan](https://www.productplan.com/blog/)
+* [Aha](https://www.aha.io/blog)
+
 
 
 
