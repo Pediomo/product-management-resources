@@ -1,6 +1,6 @@
 # Product Management Resources
 📔 📚 A curated list of awesome resources : articles, books, videos, tools, podcasts about product management.
-![](https://res.cloudinary.com/pediomo/image/upload/v1603028722/Organic_Inspirational_Quote_Reminder_Social_Media_Post_caok4b.png)
+![](https://res.cloudinary.com/pediomo/image/upload/v1603993792/Product_Management_resources_1_utafqr.png)
 
 > Product management is an organizational function that guides every step of a product's lifecycle. And to build the best product, product managers advocate for customers within the organization and make sure the voice of the market is heard and heeded. ~ [Atlassian](https://www.atlassian.com/agile/product-management)
 
