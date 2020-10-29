@@ -86,7 +86,7 @@
 * [ProductCamp](http://www.productcamp.org/)
 * [Women in Product](https://www.womenpm.org/)
 * X4 Experience Management Summit: [Product Track](https://www.qualtrics.com/x4summit/product-experience/)
-* Product Marketting Community Conferences: [Pixel Up](https://pixelup.co.za/)
+* [Pixel Up](https://pixelup.co.za/)
 
 ## Speaker decks
 
