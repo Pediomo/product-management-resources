@@ -81,7 +81,12 @@
 
 ## Conferences
 
-
+* [Mind the Product](https://www.mindtheproduct.com/mind-product-conferences/): [London](https://www.mindtheproduct.com/mtpcon/london/), [Manchester](https://www.mindtheproduct.com/mtpengage/manchester/conference/), [San Francisco](https://www.mindtheproduct.com/mtpcon/san-francisco/), [Hamburg](https://www.mindtheproduct.com/mtpengage/hamburg/), [Singapore](https://www.mindtheproduct.com/mtpcon/singapore/)
+* [ProductCon](https://productschool.com/productcon/): [San Franciso](https://productschool.com/productcon/san-francisco/), [Seatle](https://productschool.com/productcon/seattle/), [New York](https://productschool.com/productcon/new-york/), [Los Angeles](https://productschool.com/productcon/los-angeles/), [London](https://productschool.com/productcon/london/)
+* [ProductCamp](http://www.productcamp.org/)
+* [Women in Product](https://www.womenpm.org/)
+* X4 Experience Management Summit: [Product Track](https://www.qualtrics.com/x4summit/product-experience/)
+* Product Marketting Community Conferences: [Pixel Up](https://pixelup.co.za/)
 
 ## Speaker decks
 
