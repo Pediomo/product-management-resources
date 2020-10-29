@@ -120,3 +120,7 @@
 
 ## Podcasts
 
+
+## Contributing
+Found an awesome technical writer, resource, article, blog, tool, video, speaker deck etc.? Please send me a pull request and follow the [contributors guidelines](/CONTRIBUTING.md).
+
