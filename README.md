@@ -42,12 +42,15 @@
 
 
 ## Courses
-
+* [Becoming a Product Manager](https://www.linkedin.com/learning/becoming-a-product-manager)
 
 ## Resources
+* [Entry Level Resources to Becoming a Product Manager](https://hackernoon.com/entry-level-resources-for-becoming-a-product-manager-p06j32fl)
+* [Become a Product Manager](https://www.udemy.com/course/become-a-product-manager-learn-the-skills-get-a-job/)
 
 
 ## Videos
+
 
 
 ## Product tools
@@ -93,6 +96,19 @@
 
 
 ## Books
+* [Crack the PM Interview, by Gayle McDowell](http://www.crackingthepminterview.com/)
+* [Decode and Conquer, by Lewis C. Lin](https://www.lewis-lin.com/decode-and-conquer)
+* [Swipe to Unlock, by Mehta Detroja](https://books.google.com.ng/books/about/Swipe_to_Unlock.html?id=fOu9tAEACAAJ&redir_esc=y)
+* [How to Product, by Sefunmi Osinaike](https://howtoproduct.io/book)
+* [Hired: How to get a Product Management job, by Cobby and Araugo](https://www.producthunt.com/posts/hired-4ecf9d29-7561-4daa-b752-9f42bacb5388)
+* [The Product Book, by Product School](https://productschool.com/the-product-book/)
+* [Product Mindset, by Product School](https://productschool.com/product-mindset-book/)
+* [Product Leadership, by Productplan](https://go.productplan.com/product-leadership-book/?utm_campaign=Customers%20%7C%20Nurturing%20%7C%20Consideration&utm_source=hs_automation&utm_medium=email&utm_content=87185798&_hsenc=p2ANqtz--4hyXOjm_ewE0Gmp9IrUejxW8QOS_L55U3-r87efzHZxo1yu755rQcpefy6v5VS6vcwExKSRSY3s_1IwiQn-heWS9zeQ&_hsmi=87185798)
+* [Product Roadmap, by Productplan](http://assets.productplan.com/content/Product-Roadmap-Guide-by-ProductPlan.pdf?utm_campaign=Leads%20%7C%20Asset%20%7C%20Product%20Roadmaps%3A%20Your%20Guide%20to%20Planning%20and%20Selling%20Your%20Strategy&utm_medium=email&_hsenc=p2ANqtz-9p3eXG08R1mcMbIcLoogOyYMN1bbIAUmJMUsmbIYUdOyBK89gTwQ6YPKRtMIbejxMGz3dOlwR3PQQbA8w16y2ODwM1nw&_hsmi=57263687&utm_source=hs_automation&utm_content=57263687&hsCtaTracking=6d120b27-765b-4ff6-9147-38e09f332f64%7C1ed032d0-da46-4b4b-ae1a-426f7892ecfe)
+* [From Product Manager to Product Leader](https://go.productplan.com/product-leadership-book/?utm_campaign=Customers%20%7C%20Nurturing%20%7C%20Consideration&utm_source=hs_automation&utm_medium=email&utm_content=87185798&_hsenc=p2ANqtz--4hyXOjm_ewE0Gmp9IrUejxW8QOS_L55U3-r87efzHZxo1yu755rQcpefy6v5VS6vcwExKSRSY3s_1IwiQn-heWS9zeQ&_hsmi=87185798)
+* The Product Manager's Toolkit](https://go.productplan.com/product-managers-toolkit/?utm_campaign=Leads%20%7C%20Asset%20%7C%20The%20Product%20Manager%27s%20Toolkit&utm_medium=email&_hsmi=88562235&_hsenc=p2ANqtz-9luVagZj7b0q__O-gHft883Neyq6oSPq2O_5fYCLlquEl_IuVKiSO4jDhW8eahJH-5bBw9ck3m17fNXz6hrP5HvGrltw&utm_content=88562234&utm_source=hs_email)
+
+
 
 
 
@@ -107,12 +123,29 @@
 
 
 
-## Product school
+## Product schools
 
 
 
 ## Major APM programs to follow
+> **If a role not currently open, you may be redirected to the careers page of the company.**
 
+* [Google Associate Product Manager](https://careers.google.com/programs/apm/)
+* [Associate Product MAnager at Lyft](https://www.lyft.com/careers/apm)
+* [Facebook Rotational Product Manager Program](https://www.fbrpms.com/)
+* [Associate Product Manager Program at LinkedIn](https://careers.linkedin.com/apm)
+* [Associate Product Manager Program at Uber](https://www.uberapms.com/)
+* [Associate Product Manager Program at Twitter](http://www.twitterapm.com/#twitterapm)
+* [Associate Product Manager Program at Yahoo](https://yahooapms.com/)
+* [Associate Product Manager Program at Walmart](https://one.walmart.com/content/apms/en_us.html)
+* [Associate Product Manager Program at CapitalOne](https://campus.capitalone.com/job/richmond/product-development-program-associate-2021/1786/16931761)
+* [Associate Product Manager Program at Citrix](https://jobs.citrix.com/job/CITRA0058R23150/2021-Graduate-Product-Manager)
+* [Associate Product Manager Program at Indeed](https://university.indeed.jobs/associate-product-management-apm-rotation-program/)
+* [Associate Product Manager Program at Expedia](https://lifeatexpediagroup.com/jobs/job?jobid=R-55614)
+* [Associate Product Manager Program at Paypal](https://jobsearch.paypal-corp.com/en-US/search?keywords=R0057797&location=&facetcountry=us)
+* [Associate Product Manager Program at Microsoft](https://careers.microsoft.com/students/us/en/job/870955/Full-Time-Opportunities-for-Students-and-Recent-Graduates-Program-Management)
+* [Associate Product Manager Program at Visa](https://usa.visa.com/careers/job-details.jobid.743999677139190.deptid.1146742.html)
+* [Associate Product Manager Program at Zynga](https://jobs.jobvite.com/zynga/job/ossxdfwo)
 
 
 ## Product managers to follow
