@@ -128,7 +128,7 @@
 
 
 ## Major APM programs to follow
-> **If a role not currently open, you may be redirected to the careers page of the company.**
+> **If a role is not currently open, you may be redirected to the careers page of the company.**
 
 * [Google Associate Product Manager](https://careers.google.com/programs/apm/)
 * [Associate Product MAnager at Lyft](https://www.lyft.com/careers/apm)
