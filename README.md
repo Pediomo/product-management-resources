@@ -36,8 +36,6 @@
 * [Lean Stack Community](http://slack.leanstack.com/)
 * [Women in Product](https://www.womenpm.org/join)
 * [Product Manager Jobs](https://www.linkedin.com/groups/2142079)
-* [Product Manager Africa](https://pmafrica.co/)
-
 
 
 
@@ -132,7 +130,7 @@
 > **If a role is not currently open, you may be redirected to the careers page of the company.**
 
 * [Google Associate Product Manager](https://careers.google.com/programs/apm/)
-* [Associate Product MAnager at Lyft](https://www.lyft.com/careers/apm)
+* [Associate Product Manager at Lyft](https://www.lyft.com/careers/apm)
 * [Facebook Rotational Product Manager Program](https://www.fbrpms.com/)
 * [Associate Product Manager Program at LinkedIn](https://careers.linkedin.com/apm)
 * [Associate Product Manager Program at Uber](https://www.uberapms.com/)
