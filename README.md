@@ -150,8 +150,11 @@
 
 
 ## Product managers to follow
-
-
+| Name              | Link to Blog/Content profile                                                     | Blog Niche                       | Link to Twitter                                       |
+|-------------------|--------------------------------------------------------------------------|----------------------------------|-------------------------------------------------------|
+| Peculiar Ediomo-Abasi    | https://hackernoon.com/u/Peculiar                  | PM Beginner Resources  | [@p_culiar](https://mobile.twitter.com/P_culiar)     |
+| Oluwatobi Otokiti      | https://productdive.com/blog/                  | How to be a PM           | [@TobiOtokiti](https://twitter.com/TobiOtokiti)     |
+| 
 ## Podcasts
 
 
