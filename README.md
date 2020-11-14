@@ -112,6 +112,12 @@
 
 
 ## Templates
+* [Product Requirement Document](https://www.aha.io/roadmapping/guide/requirements-management/what-is-a-good-product-requirements-document-template)
+* [Competitior Analysis Template](https://www.aha.io/roadmapping/guide/templates/competitor-analysis)
+* [Product Roadmap Template](https://www.aha.io/roadmapping/guide/templates/product-roadmap)
+* [User Story Template](https://www.aha.io/roadmapping/guide/requirements-management/what-is-a-good-feature-or-user-story-template)
+* [Product Positioning Template](https://www.aha.io/roadmapping/guide/templates/product-positioning)
+* [Product Manager Resume Template](https://www.aha.io/roadmapping/guide/templates/product-manager-resumes)
 
 
 
@@ -152,7 +158,7 @@
 |-------------------|--------------------------------------------------------------------------|----------------------------------|-------------------------------------------------------|
 | Peculiar Ediomo-Abasi    | https://hackernoon.com/u/Peculiar                  | PM Beginner Resources  | [@p_culiar](https://mobile.twitter.com/P_culiar)     |
 | Oluwatobi Otokiti      | https://productdive.com/blog/                  | How to be a PM           | [@TobiOtokiti](https://twitter.com/TobiOtokiti)     |
-| 
+| Prashant Bagga | https://strategy2098.com/ | Product Musings | [Prashant Bagga](https://www.linkedin.com/in/prashant-bagga/) |
 ## Podcasts
 
 
