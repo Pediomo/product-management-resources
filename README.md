@@ -118,6 +118,7 @@
 * [User Story Template](https://www.aha.io/roadmapping/guide/requirements-management/what-is-a-good-feature-or-user-story-template)
 * [Product Positioning Template](https://www.aha.io/roadmapping/guide/templates/product-positioning)
 * [Product Manager Resume Template](https://www.aha.io/roadmapping/guide/templates/product-manager-resumes)
+* [317 + Free PM templates](https://usefyi.com/templates/product-management-templates/)
 
 
 
