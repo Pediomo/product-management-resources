@@ -46,6 +46,7 @@
 * [Entry Level Resources to Becoming a Product Manager](https://hackernoon.com/entry-level-resources-for-becoming-a-product-manager-p06j32fl)
 * [Become a Product Manager](https://www.udemy.com/course/become-a-product-manager-learn-the-skills-get-a-job/)
 * [Mind blowing list of resources on Product Management](http://attackwithnumbers.com/i-love-product-management)
+* [Reading checklist for a Product Manager](https://gautammahesh.medium.com/reading-checklist-for-a-product-manager-c4b1ccab74c2)
 
 
 ## Videos
