@@ -47,6 +47,7 @@
 * [Become a Product Manager](https://www.udemy.com/course/become-a-product-manager-learn-the-skills-get-a-job/)
 * [Mind blowing list of resources on Product Management](http://attackwithnumbers.com/i-love-product-management)
 * [Reading checklist for a Product Manager](https://gautammahesh.medium.com/reading-checklist-for-a-product-manager-c4b1ccab74c2)
+* [PM Resources](https://280group.com/what-is-product-management/skills/)
 
 
 ## Videos
