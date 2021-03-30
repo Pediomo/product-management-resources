@@ -49,6 +49,7 @@
 * [Reading checklist for a Product Manager](https://gautammahesh.medium.com/reading-checklist-for-a-product-manager-c4b1ccab74c2)
 * [PM Resource](https://280group.com/what-is-product-management/skills/)
 * [PM Resources from 280 Group](https://280group.com/what-is-product-management/ultimate-guide-to-digital-product-management/)
+* [Pricing strategy](https://quickbooks.intuit.com/r/pricing-strategy/6-different-pricing-strategies-which-is-right-for-your-business/)
 
 
 
