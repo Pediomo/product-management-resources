@@ -50,6 +50,7 @@
 * [PM Resource](https://280group.com/what-is-product-management/skills/)
 * [PM Resources from 280 Group](https://280group.com/what-is-product-management/ultimate-guide-to-digital-product-management/)
 * [Pricing strategy](https://quickbooks.intuit.com/r/pricing-strategy/6-different-pricing-strategies-which-is-right-for-your-business/)
+* [A list of metrics in product](https://www.departmentofproduct.com/blog/metrics-matter-product-managers/)
 
 
 
