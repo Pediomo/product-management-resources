@@ -125,6 +125,7 @@
 * [Product Positioning Template](https://www.aha.io/roadmapping/guide/templates/product-positioning)
 * [Product Manager Resume Template](https://www.aha.io/roadmapping/guide/templates/product-manager-resumes)
 * [317 + Free PM templates](https://usefyi.com/templates/product-management-templates/)
+* [Hubspot Sales Strategy Teemplate](https://offers.hubspot.com/thank-you/product-marketing-kit?hubs_post-cta=interactive&hubs_post=blog.hubspot.com%2Fsales%2Fgtm-strategy)
 
 
 
