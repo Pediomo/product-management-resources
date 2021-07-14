@@ -51,6 +51,7 @@
 * [PM Resources from 280 Group](https://280group.com/what-is-product-management/ultimate-guide-to-digital-product-management/)
 * [Pricing strategy](https://quickbooks.intuit.com/r/pricing-strategy/6-different-pricing-strategies-which-is-right-for-your-business/)
 * [A list of metrics in product](https://www.departmentofproduct.com/blog/metrics-matter-product-managers/)
+* [Product manager's guide to emails](https://www.sparkpost.com/wp-content/uploads/2018/01/product-managers-guide-to-email.pdf)
 
 
 
@@ -125,7 +126,7 @@
 * [Product Positioning Template](https://www.aha.io/roadmapping/guide/templates/product-positioning)
 * [Product Manager Resume Template](https://www.aha.io/roadmapping/guide/templates/product-manager-resumes)
 * [317 + Free PM templates](https://usefyi.com/templates/product-management-templates/)
-* [Hubspot Sales Strategy Teemplate](https://offers.hubspot.com/thank-you/product-marketing-kit?hubs_post-cta=interactive&hubs_post=blog.hubspot.com%2Fsales%2Fgtm-strategy)
+* [Hubspot Sales Strategy Template](https://offers.hubspot.com/thank-you/product-marketing-kit?hubs_post-cta=interactive&hubs_post=blog.hubspot.com%2Fsales%2Fgtm-strategy)
 
 
 
