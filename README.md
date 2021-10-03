@@ -52,6 +52,7 @@
 * [Pricing strategy](https://quickbooks.intuit.com/r/pricing-strategy/6-different-pricing-strategies-which-is-right-for-your-business/)
 * [A list of metrics in product](https://www.departmentofproduct.com/blog/metrics-matter-product-managers/)
 * [Product manager's guide to emails](https://www.sparkpost.com/wp-content/uploads/2018/01/product-managers-guide-to-email.pdf)
+* [The Growing Specialization of Product Management](https://www.reforge.com/blog/product-specializations)
 
 
 
