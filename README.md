@@ -9,6 +9,7 @@
 ## Table of Contents
 - [Community](#community)
 - [Courses](#courses)
+- [Interview Resources](#interview-resources)
 - [Resources](#resources)
 - [Videos](#videos)
 - [Product Tools](#product-tools)
@@ -54,6 +55,11 @@
 * [Product manager's guide to emails](https://www.sparkpost.com/wp-content/uploads/2018/01/product-managers-guide-to-email.pdf)
 * [The Growing Specialization of Product Management](https://www.reforge.com/blog/product-specializations)
 * [What Customer Discovery Questions To Ask To Validate Pain Points](https://studiozao.com/resources/what-customer-discovery-questions-to-ask-to-validate-pain-points#:~:text=These%20are%20the%20steps%20to,they%20currently%20solve%20each%20problem)
+
+
+## Interview Resources
+* [Product Management Exercises](https://www.productmanagementexercises.com/)
+* [Igotanoffer](https://igotanoffer.com/blogs/product-manager/)
 
 
 
