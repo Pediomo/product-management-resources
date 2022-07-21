@@ -168,6 +168,7 @@
 * [Associate Product Manager Program at Microsoft](https://careers.microsoft.com/students/us/en/job/870955/Full-Time-Opportunities-for-Students-and-Recent-Graduates-Program-Management)
 * [Associate Product Manager Program at Visa](https://usa.visa.com/careers/job-details.jobid.743999677139190.deptid.1146742.html)
 * [Associate Product Manager Program at Zynga](https://jobs.jobvite.com/zynga/job/ossxdfwo)
+* [The Associate Product Manager Playbook](https://productlife.to/p/the-associate-product-manager-playbook)
 
 
 ## Product managers to follow
