@@ -80,6 +80,7 @@
 * [Trello: Project Management](https://trello.com/)
 * [Pivotal Tracker: Project Management](https://www.pivotaltracker.com/)
 * [Optimizely](https://www.optimizely.com/)
+* [ConfigCat: Feature Flags](https://configcat.com/)
 * [Split.io: Feature Flags](https://www.split.io/)
 * [Launch Darkly: Feature Flags](https://launchdarkly.com/)
 * [Fullstory: Heatmap Tools](https://www.fullstory.com/)
