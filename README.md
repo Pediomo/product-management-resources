@@ -55,6 +55,7 @@
 * [Product manager's guide to emails](https://www.sparkpost.com/wp-content/uploads/2018/01/product-managers-guide-to-email.pdf)
 * [The Growing Specialization of Product Management](https://www.reforge.com/blog/product-specializations)
 * [What Customer Discovery Questions To Ask To Validate Pain Points](https://studiozao.com/resources/what-customer-discovery-questions-to-ask-to-validate-pain-points#:~:text=These%20are%20the%20steps%20to,they%20currently%20solve%20each%20problem)
+* [SaaS Comparison Page Evidence Note](https://gist.github.com/ciihom/2221c0b722cb93811ee6fbd772f64b9b) - Helps product teams check buyer objections and proof before publishing comparison pages.
 * [PM 101 (Books, Articles, Podcasts and Newsletters)](https://sidsaladi.substack.com/p/week-6-pm-101-books-articles-podcasts?r=k22jq&s=w&utm_campaign=post&utm_medium=web&utm_source=direct)
 
 
