@@ -11,6 +11,7 @@
 - [Courses](#courses)
 - [Interview Resources](#interview-resources)
 - [Resources](#resources)
+- [Newsletters](#newsletters)
 - [Videos](#videos)
 - [Product Tools](#product-tools)
 - [Conferences](#conferences)
@@ -57,6 +58,8 @@
 * [What Customer Discovery Questions To Ask To Validate Pain Points](https://studiozao.com/resources/what-customer-discovery-questions-to-ask-to-validate-pain-points#:~:text=These%20are%20the%20steps%20to,they%20currently%20solve%20each%20problem)
 * [PM 101 (Books, Articles, Podcasts and Newsletters)](https://sidsaladi.substack.com/p/week-6-pm-101-books-articles-podcasts?r=k22jq&s=w&utm_campaign=post&utm_medium=web&utm_source=direct)
 
+## Newsletters
+* [AI Weekly](https://aiweekly.co/): Discover what AI experts are reading and sharing right now, with ranked context for product leaders.
 
 ## Interview Resources
 * [Product Management Exercises](https://www.productmanagementexercises.com/)
@@ -183,4 +186,3 @@
 
 ## Contributing
 Found an awesome product manager, resource, article, blog, tool, video, speaker deck etc.? Please send me a pull request and follow the [contributors guidelines](/CONTRIBUTING.md).
-
